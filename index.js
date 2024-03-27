@@ -8,4 +8,5 @@ function ejercicio5() {
     }
 
     console.log("El factorial de "+ factor + " es: "+producto);
+    console.log("El factorial de "+ factor + " es: "+producto);
 }
